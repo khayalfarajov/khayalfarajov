@@ -3,10 +3,10 @@
 
   - For Contact : **khayalfarajov@gmail.com**
 
-- Linkedin: [@khayalfarajov](https://www.linkedin.com/in/khayalfarajov/) <br>
-- Facebook: [@khayalfarajov](facebook.com/khayalfarajov) <br>
-- Twitter: [@khayalfarajov](https://twitter.com/khayalfarajov) <br>
-- Medium: @[khayalfarajov](https://medium.com/@khayalfarajov)
+- **Linkedin:** [@khayalfarajov](https://www.linkedin.com/in/khayalfarajov/)        |   **Facebook:** [@khayalfarajov](facebook.com/khayalfarajov) <br>
+
+- **Twitter:** [@khayalfarajov](https://twitter.com/khayalfarajov)                   |    **Medium:** @[khayalfarajov](https://medium.com/@khayalfarajov)
+
 
 <!--
 **khayalfarajov/khayalfarajov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
