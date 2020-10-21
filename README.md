@@ -1,8 +1,8 @@
 ### Hi there 👋
 > I am Data Science Enthusiast  <br>
-[My Linkedin Profile](https://www.linkedin.com/in/khayalfarajov/) <br>
-[My Facebook Profile](facebook.com/khayalfarajov) <br>
-[My Twitter profile](https://twitter.com/khayalfarajov) 
+[Linkedin: @khayalfarajov](https://www.linkedin.com/in/khayalfarajov/) <br>
+[Facebook: @khayalfarajov](facebook.com/khayalfarajov) <br>
+[Twitter: @khayalfarajov](https://twitter.com/khayalfarajov) 
 
 <!--
 **khayalfarajov/khayalfarajov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
