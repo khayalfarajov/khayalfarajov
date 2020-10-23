@@ -7,7 +7,7 @@
 
 - **Twitter:** [@khayalfarajov](https://twitter.com/khayalfarajov)   <br>
 - **Medium:** [@khayalfarajov](https://medium.com/@khayalfarajov) <br>
-- **Facebook:** [@khayalfarajov](facebook.com/khayalfarajov) <br>
+- **Facebook:** [@khayalfarajov](https://www.facebook.com/khayalfarajov) <br>
 
 
 <!--
