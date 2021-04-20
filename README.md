@@ -1,5 +1,5 @@
 # Hi there 👋
-> ***I am Data Science Enthusiast***  <br>
+> ***I am Data Science/Data Analysis Enthusiast***  <br>
 
   - For Contact : **khayalfarajov@gmail.com**
 
