@@ -1,13 +1,5 @@
 # Hi there 👋
-> ***I am Data Science/Data Analysis Enthusiast***  <br>
 
-  - For Contact : **khayalfarajov@gmail.com**
-
-- **Linkedin:** [@khayalfarajov](https://www.linkedin.com/in/khayalfarajov/)   <br>       
-
-- **Twitter:** [@khayalfarajov](https://twitter.com/khayalfarajov)   <br>
-- **Medium:** [@khayalfarajov](https://medium.com/@khayalfarajov) <br>
-- **Facebook:** [@khayalfarajov](https://www.facebook.com/khayalfarajov) <br>
 
 
 <!--
